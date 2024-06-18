@@ -32,5 +32,3 @@ Get-Content input.txt | python main.py
 ```bash
 cat input.txt | python3 main.py
 ```
-
-Make sure you have Python installed on your system
